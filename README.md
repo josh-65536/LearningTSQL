@@ -19,7 +19,6 @@ Progress:
 - [ ] Joining tables
 - [ ] Transactions
 - [ ] Views
-- [ ] Triggers
 
 ### Section 2
 
@@ -29,6 +28,7 @@ Progress:
 - [x] Variables
 - [ ] Control Flow
 - [ ] Cursors
+- [ ] Triggers
 - [ ] Stored functions
 - [ ] Stored procedures
 
