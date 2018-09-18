@@ -16,7 +16,10 @@ Progress:
 - [x] Querying
 - [x] Insertion and deletion
 - [x] Subqueries
-- [ ] Joining tables
+- [x] Joining tables
+- [x] Aggregate functions
+- [x] Grouping
+- [x] Table constraints
 - [ ] Transactions
 - [ ] Views
 
