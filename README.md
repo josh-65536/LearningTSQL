@@ -26,7 +26,7 @@ Writing SQL procedures.
 
 Progress:
 - [x] Variables
-- [ ] Control Flow
+- [x] Control Flow
 - [ ] Cursors
 - [ ] Triggers
 - [ ] Stored functions
