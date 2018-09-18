@@ -4,6 +4,40 @@
 
 This repository records my progress in learning Microsoft T-SQL.
 
+## Sections
+
+### Section 1
+
+Commonly-used SQL statements.
+
+Progress:
+- [x] Database and table creation
+- [ ] Table manipulation
+- [x] Querying
+- [x] Insertion and deletion
+- [x] Subqueries
+- [ ] Joining tables
+- [ ] Transactions
+- [ ] Views
+- [ ] Triggers
+
+### Section 2
+
+Writing SQL procedures.
+
+Progress:
+- [x] Variables
+- [ ] Control Flow
+- [ ] Cursors
+- [ ] Stored functions
+- [ ] Stored procedures
+
+### Section 3
+
+Database administration for MS-SQL.
+
+Progress: TBD
+
 ## Requirements
 
 Server:
