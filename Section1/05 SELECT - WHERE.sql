@@ -1,3 +1,4 @@
+USE FirstDb;
 
 SELECT *
     FROM States

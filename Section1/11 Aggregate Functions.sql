@@ -1,3 +1,4 @@
+USE FirstDb;
 
 SELECT
     COUNT(*)                      AS [Number of States],

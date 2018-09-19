@@ -1,3 +1,5 @@
+USE FirstDb;
+GO
 
 CREATE OR ALTER PROCEDURE myprocedure1 AS
 BEGIN

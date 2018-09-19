@@ -1,3 +1,4 @@
+USE FirstDb;
 
 DECLARE @characterMask TABLE (
     AsciiCode int NOT NULL PRIMARY KEY,

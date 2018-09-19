@@ -1,3 +1,4 @@
+USE FirstDb;
 
 INSERT INTO States
         (Name, Code, CapitalCity, LargestCity, Established, Population, LandArea, WaterArea)

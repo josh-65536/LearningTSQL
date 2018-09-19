@@ -1,3 +1,4 @@
+USE FirstDb;
 
 SELECT Location, COUNT(Location) AS [Number of National Parks]
     FROM NationalParks

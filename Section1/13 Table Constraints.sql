@@ -1,4 +1,3 @@
-
 USE FirstDb;
 
 CREATE TABLE Customers (

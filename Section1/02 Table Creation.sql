@@ -1,3 +1,4 @@
+USE FirstDb;
 
 CREATE TABLE States (
     Code        char(2)      NOT NULL PRIMARY KEY,

@@ -1,3 +1,4 @@
+USE FirstDb;
 
 print 'Hello World!';
 

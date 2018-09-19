@@ -1,3 +1,4 @@
+USE FirstDb;
 
 DECLARE @alphabet TABLE (
     Uppercase char(1) NOT NULL PRIMARY KEY,

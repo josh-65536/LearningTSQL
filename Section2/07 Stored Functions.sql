@@ -1,3 +1,6 @@
+USE FirstDb;
+GO
+
 CREATE OR ALTER FUNCTION myfunction1 (@value int)
     RETURNS int AS
 BEGIN

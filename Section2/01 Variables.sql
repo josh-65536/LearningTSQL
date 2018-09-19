@@ -1,3 +1,4 @@
+USE FirstDb;
 
 DECLARE @foo int = 0;
 SELECT @foo;

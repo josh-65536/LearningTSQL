@@ -1,3 +1,4 @@
+USE FirstDb;
 
 CREATE TABLE NationalParks (
     Name        varchar(80)    NOT NULL PRIMARY KEY,

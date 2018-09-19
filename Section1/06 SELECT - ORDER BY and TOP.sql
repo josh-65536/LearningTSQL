@@ -1,3 +1,4 @@
+USE FirstDb;
 
 SELECT TOP 10 *
     FROM States
