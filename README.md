@@ -30,10 +30,10 @@ Writing SQL procedures.
 Progress:
 - [x] Variables
 - [x] Control Flow
-- [ ] Cursors
+- [x] Cursors
 - [ ] Triggers
-- [ ] Stored functions
-- [ ] Stored procedures
+- [x] Stored functions
+- [x] Stored procedures
 
 ### Section 3
 
