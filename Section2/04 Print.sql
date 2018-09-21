@@ -1,5 +1,5 @@
 USE FirstDb;
 
-print 'Hello World!';
+PRINT 'Hello World!';
 
-print '2 + 2 = ' + CONVERT(varchar(max), 2 + 2);
+PRINT '2 + 2 = ' + CONVERT(varchar(max), 2 + 2);

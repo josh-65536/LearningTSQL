@@ -9,10 +9,9 @@ DECLARE @index int = 0;
 
 WHILE @index < 26
 BEGIN
-    INSERT INTO @alphabet VALUES (
-        CHAR(@index + ASCII('A')),
-        CHAR(@index + ASCII('a'))
-    );
+    INSERT INTO @alphabet
+         VALUES (CHAR(@index + ASCII('A')),
+                 CHAR(@index + ASCII('a')));
 
     SET @index = @index + 1;
 END;

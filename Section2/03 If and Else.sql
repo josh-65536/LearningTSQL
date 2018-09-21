@@ -28,13 +28,16 @@ BEGIN
     ELSE
         SET @isAllowed = 0;
 
-    INSERT INTO @characterMask VALUES (
-        @index, @isAllowed, @isLetter, @isNumber, @isSymbol
-    );
+    INSERT INTO @characterMask
+         VALUES (@index, @isAllowed, @isLetter, @isNumber, @isSymbol);
 
     SET @index = @index + 1;
 END;
 
-SELECT CHAR(AsciiCode) AS [Value], IsAllowed, IsLetter, IsNumber, IsSymbol
-    FROM @characterMask
-    WHERE IsAllowed = 1;
+SELECT CHAR(AsciiCode) AS [Value],
+       IsAllowed,
+       IsLetter,
+       IsNumber,
+       IsSymbol
+  FROM @characterMask
+ WHERE IsAllowed = 1;
